@@ -1,0 +1,13 @@
+.body-style {
+  color: yellow;
+}
+.blue-square {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+.red-square {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
